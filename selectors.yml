@@ -8,6 +8,7 @@ short_description:
     css: '#featurebullets_feature_div'
     type: Text
 images:
+    multiple: false
     css: '.imgTagWrapper img'
     type: Attribute
     attribute: data-a-dynamic-image
